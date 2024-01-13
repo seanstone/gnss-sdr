@@ -872,7 +872,7 @@ Install the required dependencies:
 ```
 $ brew update && brew upgrade
 $ brew install armadillo cmake hdf5 gflags glog gnuradio lapack libmatio log4cpp \
-    openssl pkg-config protobuf pugixml
+    openssl pkg-config protobuf pugixml googletest cpu_features
 $ pip3 install mako
 $ brew install --cask mactex  # when completed, restart Terminal
 $ brew install graphviz doxygen
